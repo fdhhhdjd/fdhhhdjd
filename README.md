@@ -39,6 +39,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://profile-forme.surge.sh)
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://profile-forme.surge.sh)
     [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://profile-forme.surge.sh)
+    [![Redis](https://img.shields.io/badge/-Redis-eee?style=flat-square&logo=redis&logoColor=E0234E)](https://profile-forme.surge.sh)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://profile-forme.surge.sh)
     [![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat-square&logo=nginx&logoColor=47A248)](https://profile-forme.surge.sh)
     [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify&logoColor=9ef9e0)](https://profile-forme.surge.sh)
@@ -50,8 +51,9 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
 - APIs : <br />
     [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://dinhanhthi.com/google-dialogflow-api/)
-    [![Cloudinary](http://img.shields.io/badge/-Cloudinary-eee?style=flat-square&logo=google-cloud&logoColor=F94877)](https://profile-forme.surge.sh)
+    [![Cloudinary](http://img.shields.io/badge/-Cloudinary-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.surge.sh)
     [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.surge.sh/)
+    [![Aws Cloud](https://img.shields.io/badge/-Aws%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=FF6C37)](https://profile-forme.surge.sh/)
 
 
 More about me 👉 [profile-forme.surge.sh](https://profile-forme.surge.sh/).
