@@ -20,7 +20,6 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://profile-forme.surge.sh)
     [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)](https://profile-forme.surge.sh)
 - Frontend : <br />
-    [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://profile-forme.surge.sh)
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://profile-forme.surge.sh)
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://profile-forme.surge.sh)
     [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel&logoColor=fb503b)](https://profile-forme.surge.sh)
