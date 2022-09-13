@@ -2,14 +2,14 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tai-nguyen-tien-787545213/)
 [![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://nguyentientai.com/)](https://nguyentientaii.com)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/nguyentientai)](https://ko-fi.com/nguyentientai)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=ko-fi.com/tientainguyen)](https://ko-fi.com/nguyentientai)
 
 I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a **doctor in Applied Maths** and currently a **Data Scientist**.
 
-- 🌱 On the way of learning *Advanced Machine Learning* & *Data Science* (also enjoying _Web Dev_).
-- 🔥 Most proud of -- [Math2IT](http://math2it.com/), a Vietnamese site for intuitive knowledge (maths, education and technology).
-- 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
-- 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
+- 🌱 Studied at Nha Trang University with undergraduate degree.
+- 🔥 Working as a programmer for companies WebSite.
+- 📚 My notes of learning at [profile-forme.surge.sh](https://profile-forme.surge.sh/).
+- 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
 Technologies I've been learning and using so far (alphabetical order) :
