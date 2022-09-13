@@ -7,17 +7,17 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 
 - 🌱 Studied at Nha Trang University with undergraduate degree.
 - 🔥 Working as a programmer for companies WebSite.
-- 📚 My notes of learning at [profile-forme.surge.sh](https://profile-forme.surge.sh/).
+- 📚 My notes of learning at [profile-forme.surge.sh](https://profile-forme.surge.sh) and GitHub.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
 Technologies I've been learning and using so far (alphabetical order) :
 
 - Programming languages : <br />
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://profile-forme.surge.sh/#web_development)
+    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://profile-forme.surge.sh)
     <!-- [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)](https://profile-forme.surge.sh) -->
-    <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)](https://dinhanhthi.com/#web_development) -->
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://dinhanhthi.com/#web_development)
+    <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)](https://profile-forme.surge.sh) -->
+    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://profile-forme.surge.sh)
     [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)](https://profile-forme.surge.sh)
 - Frontend : <br />
     [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://profile-forme.surge.sh)
@@ -28,7 +28,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=9932CC)](https://profile-forme.surge.sh)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://profile-forme.surge.sh)
 - Backend : <br />
-    [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://profile-forme.surge.sh/tags/docker/)
+    [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://profile-forme.surge.sh)
     [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://profile-forme.surge.sh)
     [![Google APIs](http://img.shields.io/badge/-Google%20APIs-eee?style=flat-square&logo=google&logoColor=4285F4)](https://profile-forme.surge.sh)
     [![Google APIs](http://img.shields.io/badge/-Facebook%20APIs-eee?style=flat-square&logo=facebook&logoColor=4285F4)](https://profile-forme.surge.sh)
@@ -47,9 +47,9 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://profile-forme.surge.sh)
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://profile-forme.surge.sh)
     [![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)](https://profile-forme.surge.sh)
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://dinhanhthi.com/visual-studio-code)
+    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://profile-forme.surge.sh)
 - APIs : <br />
-    [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://dinhanhthi.com/google-dialogflow-api/)
+    [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://profile-forme.surge.sh)
     [![Cloudinary](http://img.shields.io/badge/-Cloudinary-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.surge.sh)
     [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.surge.sh/)
     [![Aws Cloud](https://img.shields.io/badge/-Aws%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=FF6C37)](https://profile-forme.surge.sh/)
