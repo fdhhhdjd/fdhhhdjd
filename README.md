@@ -24,6 +24,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![11ty](http://img.shields.io/badge/-11ty-eee?style=flat-square&logo=eleventy&logoColor=000)](https://profile-forme.surge.sh)
     [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://profile-forme.surge.sh)
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://profile-forme.surge.sh)
+    [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel&logoColor=fb503b)](https://profile-forme.surge.sh)
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://profile-forme.surge.sh)
     [![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=9932CC)](https://profile-forme.surge.sh)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://profile-forme.surge.sh)
@@ -40,6 +41,8 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://profile-forme.surge.sh)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://profile-forme.surge.sh)
     [![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat-square&logo=nginx&logoColor=47A248)](https://profile-forme.surge.sh)
+    [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify&logoColor=9ef9e0)](https://profile-forme.surge.sh)
+    [![Cloudflare](https://img.shields.io/badge/-Cloudflare-eee?style=flat-square&logo=cloudflare&logoColor=E34F26)](https://profile-forme.surge.sh)
 - OS & IDE & Tools : <br />
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://profile-forme.surge.sh)
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://profile-forme.surge.sh)
