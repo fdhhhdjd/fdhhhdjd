@@ -7,7 +7,7 @@ I'm a Vietnamese guy who has a curious mind. I'd like to learn something new eve
 
 - 🌱 Studied at Nha Trang University with undergraduate degree.
 - 🔥 Working as a programmer for companies WebSite.
-- 📚 My notes of learning at [profile-forme.surge.sh](https://profile-forme.vercel.app) and GitHub.
+- 📚 My notes of learning at [https://profile-forme.vercel.app](https://profile-forme.vercel.app) and GitHub.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
@@ -54,4 +54,4 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Aws Cloud](https://img.shields.io/badge/-Aws%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=FF6C37)](https://profile-forme.vercel.app/)
 
 
-More about me 👉 [profile-forme.surge.sh](https://profile-forme.vercel.app).
+More about me 👉 [https://profile-forme.vercel.app](https://profile-forme.vercel.app).
