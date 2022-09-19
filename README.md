@@ -42,6 +42,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat-square&logo=nginx&logoColor=47A248)](https://profile-forme.cf)
     [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify&logoColor=9ef9e0)](https://profile-forme.cf)
     [![Cloudflare](https://img.shields.io/badge/-Cloudflare-eee?style=flat-square&logo=cloudflare&logoColor=E34F26)](https://profile-forme.cf)
+    [![Vercel](https://img.shields.io/badge/-Vercel-eee?style=flat-square&logo=vercel&logoColor=black)](https://profile-forme.cf)
 - OS & IDE & Tools : <br />
     [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://profile-forme.cf)
     [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://profile-forme.cf)
