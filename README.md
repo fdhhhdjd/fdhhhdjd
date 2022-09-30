@@ -38,6 +38,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://profile-forme.cf)
     [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://profile-forme.cf)
     [![Redis](https://img.shields.io/badge/-Redis-eee?style=flat-square&logo=redis&logoColor=E0234E)](https://profile-forme.cf)
+    [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-eee?style=flat-square&logo=rabbitmq&logoColor=FF6C37)](https://profile-forme.cf)
     [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://profile-forme.cf)
     [![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat-square&logo=nginx&logoColor=47A248)](https://profile-forme.cf)
     [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify&logoColor=9ef9e0)](https://profile-forme.cf)
