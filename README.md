@@ -24,6 +24,7 @@ Technologies I've been learning and using so far (alphabetical order) :
     [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://profile-forme.cf)
     [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel&logoColor=fb503b)](https://profile-forme.cf)
     [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://profile-forme.cf)
+    [![Vue](https://img.shields.io/badge/-Vue-eee?style=flat-square&logo=Vue.js&logoColor=#41b883)](https://profile-forme.cf)
     [![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=9932CC)](https://profile-forme.cf)
     [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://profile-forme.cf)
 - Backend : <br />
