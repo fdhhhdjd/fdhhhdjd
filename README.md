@@ -1,60 +1,69 @@
-###  🔥 Hi, I'm Nguyễn Tiến Tài - FullStack Developer  <a href="https://profile-forme.surge.sh" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="50"></a>
+### 🔥 Hi, I'm Nguyễn Tiến Tài - FullStack Developer  <a href="https://profile-forme.surge.sh" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="50"></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tai-nguyen-tien-787545213/)
 [![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://profile-forme.surge.sh)](https://profile-forme.surge.sh)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/tientainguyen)](https://ko-fi.com/tientainguyen)
 
-I'm a Vietnamese guy who has a curious mind. I'd like to learn something new every day. I'm a FullStack Web Developer.
+I hold a software engineering degree from Nha Trang University. I work as a Full-Stack Web Developer at a software company and also teach programming to students.
 
-- 🌱 Studied at Nha Trang University with undergraduate degree.
-- 🔥 Working as a programmer for companies WebSite.
+- 🎓 Graduated from Nha Trang University with an undergraduate degree.
+- 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
 - 📚 My notes of learning at [https://profile-forme.cf](https://profile-forme.cf) and GitHub.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
-Technologies I've been learning and using so far (alphabetical order) :
+Technologies I've been learning and using so far (in alphabetical order):
 
-- Programming languages : <br />
-    [![JavaScript](https://img.shields.io/badge/-JavaScript-eee?style=flat-square&logo=javascript&logoColor=DD9C25)](https://profile-forme.cf)
-    <!-- [![R Lang](https://img.shields.io/badge/-R%20Lang-eee?style=flat-square&logo=r&logoColor=276dc3)](https://profile-forme.cf) -->
-    <!-- [![Ruby](http://img.shields.io/badge/-Ruby-eee?style=flat-square&logo=ruby&logoColor=CC342D)](https://profile-forme.cf) -->
-    [![PHP](http://img.shields.io/badge/-PHP-eee?style=flat-square&logo=php&logoColor=4951aa)](https://profile-forme.vercel.app)
-    [![TypeScript](http://img.shields.io/badge/-TypeScript-eee?style=flat-square&logo=typescript&logoColor=3178C6)](https://profile-forme.cf)
-- Frontend : <br />
-    [![Bootstrap](http://img.shields.io/badge/-Bootstrap-eee?style=flat-square&logo=bootstrap&logoColor=563D7C)](https://profile-forme.cf)
-    [![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)](https://profile-forme.cf)
-    [![Laravel](https://img.shields.io/badge/-Laravel-eee?style=flat-square&logo=laravel&logoColor=fb503b)](https://profile-forme.cf)
-    [![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)](https://profile-forme.cf)
-    [![Vue](https://img.shields.io/badge/-Vue-eee?style=flat-square&logo=Vue.js&logoColor=#41b883)](https://profile-forme.cf)
-    [![Redux](https://img.shields.io/badge/-Redux-eee?style=flat-square&logo=redux&logoColor=9932CC)](https://profile-forme.cf)
-    [![Sass](https://img.shields.io/badge/-SASS-eee?style=flat-square&logo=sass&logoColor=CC6699)](https://profile-forme.cf)
-- Backend : <br />
-    [![Docker](https://img.shields.io/badge/-Docker-eee?style=flat-square&logo=docker&logoColor=2496ed)](https://profile-forme.cf)
-    [![Firebase](https://img.shields.io/badge/-Firebase-EEE?style=flat-square&logo=firebase&logoColor=FFCA28)](https://profile-forme.cf)
-    [![Google APIs](http://img.shields.io/badge/-Google%20APIs-eee?style=flat-square&logo=google&logoColor=4285F4)](https://profile-forme.cf)
-    [![Google APIs](http://img.shields.io/badge/-Facebook%20APIs-eee?style=flat-square&logo=facebook&logoColor=4285F4)](https://profile-forme.cf)
-    [![GraphQL](https://img.shields.io/badge/-GraphQL-eee?style=flat-square&logo=graphql&logoColor=E10098)](https://profile-forme.cf)
-    [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-eee?style=flat-square&logo=postgresql&logoColor=0273B7)](https://profile-forme.cf)
-    [![Heroku](https://img.shields.io/badge/-Heroku-eee?style=flat-square&logo=heroku&logoColor=430098)](https://profile-forme.cf)
-    [![MongoDB](https://img.shields.io/badge/-MongoDB-eee?style=flat-square&logo=mongodb&logoColor=47A248)](https://profile-forme.cf)
-    [![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)](https://profile-forme.cf)
-    [![NestJS](https://img.shields.io/badge/-NestJS-eee?style=flat-square&logo=nestjs&logoColor=E0234E)](https://profile-forme.cf)
-    [![Redis](https://img.shields.io/badge/-Redis-eee?style=flat-square&logo=redis&logoColor=E0234E)](https://profile-forme.cf)
-    [![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-eee?style=flat-square&logo=rabbitmq&logoColor=FF6C37)](https://profile-forme.cf)
-    [![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)](https://profile-forme.cf)
-    [![Nginx](https://img.shields.io/badge/-Nginx-eee?style=flat-square&logo=nginx&logoColor=47A248)](https://profile-forme.cf)
-    [![Netlify](https://img.shields.io/badge/-Netlify-eee?style=flat-square&logo=netlify&logoColor=9ef9e0)](https://profile-forme.cf)
-    [![Cloudflare](https://img.shields.io/badge/-Cloudflare-eee?style=flat-square&logo=cloudflare&logoColor=E34F26)](https://profile-forme.cf)
-    [![Vercel](https://img.shields.io/badge/-Vercel-eee?style=flat-square&logo=vercel&logoColor=black)](https://profile-forme.cf)
-- OS & IDE & Tools : <br />
-    [![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)](https://profile-forme.cf)
-    [![Linux](http://img.shields.io/badge/-Linux-eee?style=flat-square&logo=linux&logoColor=D67A10)](https://profile-forme.cf)
-    [![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)](https://profile-forme.cf)
-    [![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=007ACC)](https://profile-forme.cf)
-- APIs : <br />
-    [![Dialogflow](http://img.shields.io/badge/-Dialogflow-eee?style=flat-square&logo=dialogflow&logoColor=FF9800)](https://profile-forme.cf)
-    [![Cloudinary](http://img.shields.io/badge/-Cloudinary-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.cf)
-    [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=4285F4)](https://profile-forme.cf)
-    [![Aws Cloud](https://img.shields.io/badge/-Aws%20Cloud-eee?style=flat-square&logo=google-cloud&logoColor=FF6C37)](https://profile-forme.cf)
+# 🚀 Programming Languages Showcase 🌟
 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-DD9C25?style=flat-square&logo=javascript&logoColor=white)](https://profile-forme.cf)
+[![PHP](https://img.shields.io/badge/-PHP-4951aa?style=flat-square&logo=php&logoColor=white)](https://profile-forme.vercel.app)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://profile-forme.cf)
+
+<!------------------- Step 1 -------------- -->
+## 🌐 Frontend
+
+[![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=element-ui&logoColor=white)](https://profile-forme.cf)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://profile-forme.cf)
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://profile-forme.cf)
+[![Laravel](https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white)](https://profile-forme.cf)
+[![React](https://img.shields.io/badge/-React-0088cc?style=flat-square&logo=react&logoColor=white)](https://profile-forme.cf)
+[![Vue](https://img.shields.io/badge/-Vue-41b883?style=flat-square&logo=Vue.js&logoColor=white)](https://profile-forme.cf)
+[![Redux](https://img.shields.io/badge/-Redux-9932CC?style=flat-square&logo=redux&logoColor=white)](https://profile-forme.cf)
+[![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://profile-forme.cf)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://profile-forme.cf)
+ <!------------------- Step 2 -------------- -->
+## 💻 Backend
+
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://profile-forme.cf)
+[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://profile-forme.cf)
+[![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://profile-forme.cf)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://profile-forme.cf)
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://profile-forme.cf)
+[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://profile-forme.cf)
+[![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://profile-forme.cf)
+[![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://profile-forme.cf)
+ <!------------------- Step 3 -------------- -->
+## ⚙️ DevOps
+
+[![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://profile-forme.cf)
+[![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://link-to-your-kubernetes-profile)
+[![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://profile-forme.cf)
+[![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://profile-forme.cf)
+[![Surge](https://img.shields.io/badge/-Surge-ff4081?style=flat-square&logo=surge&logoColor=white)](https://link-to-your-surge-profile)
+[![Cloudflare](https://img.shields.io/badge/-Cloudflare-E34F26?style=flat-square&logo=cloudflare&logoColor=white)](https://profile-forme.cf)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://profile-forme.cf)
+ <!------------------- Step 4 -------------- -->
+## 🖥️ OS & IDE & Tools
+
+[![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://profile-forme.cf)
+[![Linux](https://img.shields.io/badge/-Linux-D67A10?style=flat-square&logo=linux&logoColor=white)](https://profile-forme.cf)
+[![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://profile-forme.cf)
+[![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://profile-forme.cf)
+
+## ☁️ Cloud
+[![Dialogflow](https://img.shields.io/badge/-Dialogflow-FF9800?style=flat-square&logo=dialogflow&logoColor=white)](https://profile-forme.cf)
+[![Cloudinary](https://img.shields.io/badge/-Cloudinary-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.cf)
+[![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.cf)
+[![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-FF6C37?style=flat-square&logo=amazon-aws&logoColor=white)](https://profile-forme.cf)
 
 More about me 👉 [https://profile-forme.cf](https://profile-forme.cf).
