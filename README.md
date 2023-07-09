@@ -80,7 +80,7 @@ The main objective of this project is to share my extensive knowledge and experi
 
 I am eagerly looking forward to sharing my insights with all of you and learning from your valuable feedback. Stay tuned for a series of captivating articles that will be published on my blog!
 
-To stay updated with the latest posts, I invite you to follow my blog at [your blog link](your-blog-link).
+To stay updated with the latest posts, I invite you to follow my blog at [In Processing](https://profile-forme.cf)).
 
 Your support is greatly appreciated as we strive to build a vibrant community of learners and knowledge enthusiasts!
 
