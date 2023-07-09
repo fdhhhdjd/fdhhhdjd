@@ -36,6 +36,8 @@ Technologies I've been learning and using so far (in alphabetical order):
 
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://profile-forme.cf)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://profile-forme.cf)
+[![Knex](https://img.shields.io/badge/-Knex-DB4D6D?style=flat&logo=knex&logoColor=white)](https://knexjs.org/)
+[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://profile-forme.cf)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://profile-forme.cf)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://profile-forme.cf)
@@ -44,12 +46,14 @@ Technologies I've been learning and using so far (in alphabetical order):
 [![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://profile-forme.cf)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/your-github-username)](https://github.com/fdhhhdjd)
 [![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/your-gitlab-username)](https://profile-forme.cf)
+[![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/)
  <!------------------- Step 3 -------------- -->
 ## ⚙️ DevOps
 
 [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://profile-forme.cf)
 [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://link-to-your-kubernetes-profile)
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)](https://profile-forme.cf)
+[![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat&logo=nginx&logoColor=white)](https://nginx.org/)
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://profile-forme.cf)
 [![Surge](https://img.shields.io/badge/-Surge-ff4081?style=flat-square&logo=surge&logoColor=white)](https://link-to-your-surge-profile)
 [![Cloudflare](https://img.shields.io/badge/-Cloudflare-E34F26?style=flat-square&logo=cloudflare&logoColor=white)](https://profile-forme.cf)
