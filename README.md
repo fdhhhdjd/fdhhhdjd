@@ -42,6 +42,8 @@ Technologies I've been learning and using so far (in alphabetical order):
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://profile-forme.cf)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://profile-forme.cf)
 [![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://profile-forme.cf)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white&link=https://github.com/your-github-username)](https://github.com/fdhhhdjd)
+[![GitLab](https://img.shields.io/badge/-GitLab-orange?style=flat&logo=gitlab&logoColor=white&link=https://gitlab.com/your-gitlab-username)](https://profile-forme.cf)
  <!------------------- Step 3 -------------- -->
 ## ⚙️ DevOps
 
