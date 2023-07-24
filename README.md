@@ -40,6 +40,7 @@ Technologies I've been learning and using so far (in alphabetical order):
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://profile-forme.cf)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://profile-forme.cf)
+[![Firebase](https://img.shields.io/badge/-Firebase-FF6600?style=flat&logo=firebase&logoColor=white)](https://firebase.google.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://profile-forme.cf)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://profile-forme.cf)
 [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://profile-forme.cf)
