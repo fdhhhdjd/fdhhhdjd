@@ -31,6 +31,7 @@ Technologies I've been learning and using so far (in alphabetical order):
 [![Redux](https://img.shields.io/badge/-Redux-9932CC?style=flat-square&logo=redux&logoColor=white)](https://profile-forme.cf)
 [![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)](https://profile-forme.cf)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://profile-forme.cf)
+[![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-41b883?style=flat-square&logo=nuxt.js&logoColor=white)](https://profile-forme.cf)
  <!------------------- Step 2 -------------- -->
 ## 💻 Backend
 
