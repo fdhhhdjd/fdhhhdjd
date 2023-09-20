@@ -7,7 +7,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Full
 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies websites.
-- 📚 My notes of learning at [https://profile-forme.cf](https://profile-forme.cf) and GitHub.
+- 📚 My notes of learning at [profile-forme.com](https://www.profile-forme.com) and GitHub.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
@@ -82,7 +82,7 @@ The main objective of this project is to share my extensive knowledge and experi
 
 I am eagerly looking forward to sharing my insights with all of you and learning from your valuable feedback. Stay tuned for a series of captivating articles that will be published on my blog!
 
-To stay updated with the latest posts, I invite you to follow my blog at [In Processing](https://profile-forme.cf).
+To stay updated with the latest posts, I invite you to follow my blog at [profile-forme.com](https://www.profile-forme.com).
 
 Your support is greatly appreciated as we strive to build a vibrant community of learners and knowledge enthusiasts!
 
@@ -92,7 +92,7 @@ Please note that the project is currently private. If you are genuinely interest
 
 Thank you for your continuous support, and I look forward to connecting with you on the blog!
 
-To learn more about me, visit [https://profile-forme.cf](https://profile-forme.cf).
+To learn more about me, visit [profile-forme.com](https://www.profile-forme.com).
 
 🌟 Nguyễn Tiến Tài
 
