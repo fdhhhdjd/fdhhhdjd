@@ -1,4 +1,4 @@
-### 🔥 Hi, I'm Nguyễn Tiến Tài - FullStack Web Developer  <a href="https://profile-forme.surge.sh" target="_blank"><img src="https://res.cloudinary.com/ecommerce2021/image/upload/v1659065987/avatar/logo_begsn1.png" width="50"></a>
+### 🫱 Hi, I'm Nguyễn Tiến Tài - FullStack Web Developer 🔥  <a href="https://profile-forme.surge.sh" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tai-nguyen-tien-787545213/)
 [![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://profile-forme.surge.sh)](https://profile-forme.surge.sh)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/tientainguyen)](https://ko-fi.com/tientainguyen)
@@ -25,6 +25,7 @@ Technologies I've been learning and using so far (in alphabetical order):
 <!------------------- Step 1 -------------- -->
 ## 🌐 Frontend
 
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://profile-forme.cf)
 [![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=element-ui&logoColor=white)](https://profile-forme.cf)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)](https://profile-forme.cf)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://profile-forme.cf)
