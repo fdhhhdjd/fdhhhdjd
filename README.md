@@ -5,9 +5,12 @@
 
 I hold a software engineering degree from Nha Trang University. I work as a Full-Stack Web Developer at a software company and also teach programming to students.
 
+<img align ="right" src = "https://www.profile-forme.com/logo1.png" width="150" height="150">
+
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies websites.
 - 📚 My notes of learning at [profile-forme.com](https://www.profile-forme.com) and GitHub.
+- 💬 Ask me about NodeJs | React | Database | System.
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
