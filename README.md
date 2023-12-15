@@ -14,7 +14,15 @@ I hold a software engineering degree from Nha Trang University. I work as a Full
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
-Technologies I've been learning and using so far (in alphabetical order):
+<b> Technologies I've been learning and using so far (in alphabetical order): </b>
+
+## 📑 Github Stats of me!
+
+![Gist Card](https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile)
+![GitHub Streak](https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight)
+<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+
 
 # 🚀 Programming Languages Showcase 🌟
 
