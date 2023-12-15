@@ -82,7 +82,6 @@ Technologies I've been learning and using so far (in alphabetical order):
  <!------------------- Step 4 -------------- -->
 ## 🧰 OS & IDE & Tools
 
-### Other Tools & Technologies
 ![Others](https://skillicons.dev/icons?i=figma,postman,vite,webpack,babel,bash,git,markdown,linux,vscode)
 
 <!------------------- [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://profile-forme.com)
