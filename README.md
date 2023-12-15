@@ -18,12 +18,12 @@ Technologies I've been learning and using so far (in alphabetical order):
 
 # 🚀 Programming Languages Showcase 🌟
 
-![Languages](https://skillicons.dev/icons?i=js,ts,php)
+![Languages](https://skillicons.dev/icons?i=js,ts)
 
 <!------------------- Step 1 -------------- -->
 ## 🌐 Frontend
 
-![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,redux,tailwind,laravel,scss,mui,bootstrap,styledcomponents,html,css)
+![Frontend Technologies](https://skillicons.dev/icons?i=react,next,vue,nuxt,redux,tailwind,scss,mui,bootstrap,styledcomponents,html,css)
 
 <!-------------------  [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://profile-forme.com)
 [![Element UI](https://img.shields.io/badge/-Element%20UI-409EFF?style=flat-square&logo=element-ui&logoColor=white)](https://profile-forme.com)
