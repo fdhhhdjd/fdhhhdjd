@@ -47,7 +47,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Full
  <!------------------- Step 2 -------------- -->
 ## 💻 Backend
 
-![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,next,graphql,fastapi,rabbitmq,supabase)
+![Backend Technologies](https://skillicons.dev/icons?i=nodejs,nestjs,express,next,graphql,fastapi,rabbitmq)
 
 [![Knex](https://img.shields.io/badge/-Knex-DB4D6D?style=flat&logo=knex&logoColor=white)](https://knexjs.org/)
 [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
