@@ -26,7 +26,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 # 🚀 Programming Languages Showcase 🌟
 
-![Languages](https://skillicons.dev/icons?i=js,ts)
+![Languages](https://skillicons.dev/icons?i=js,ts,go)
 
 <!------------------- Step 1 -------------- -->
 ## 🌐 Frontend
