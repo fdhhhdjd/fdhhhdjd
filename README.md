@@ -67,12 +67,12 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 ## 🏛️ Database
 
-![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,sequelize,firebase,redis)
+![Database & Tools](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,redis)
 
  <!------------------- Step 3 -------------- -->
 ## ⚙️ DevOps
 
-![Others](https://skillicons.dev/icons?i=docker,kubernetes,vercel,netlify,nginx,heroku)
+![Others](https://skillicons.dev/icons?i=docker,vercel,netlify,nginx,heroku)
 
 [![Surge](https://img.shields.io/badge/-Surge-ff4081?style=flat-square&logo=surge&logoColor=white)](https://link-to-your-surge-profile)
 <!------------------- [![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://profile-forme.com)
@@ -90,7 +90,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
  <!------------------- Step 4 -------------- -->
 ## 🧰 OS & IDE & Tools
 
-![Others](https://skillicons.dev/icons?i=figma,postman,vite,webpack,babel,bash,git,markdown,linux,vscode)
+![Others](https://skillicons.dev/icons?i=figma,postman,vite,bash,git,markdown,linux,vscode)
 
 <!------------------- [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://profile-forme.com)
 [![Linux](https://img.shields.io/badge/-Linux-D67A10?style=flat-square&logo=linux&logoColor=white)](https://profile-forme.com)
