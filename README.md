@@ -37,11 +37,11 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 <!-- activity graph heroku-app start -->
 <a href="https://profile-forme.com">
-        <img src="https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile" width="48%" >
+        <img src="https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" width="48%" >
 </a>
 
 <a href="https://profile-forme.com">
-        <img src="https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight" width="48%" >
+        <img src="https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight&hide_border=true" width="48%" >
 </a>
 
 <a href="https://profile-forme.com">
