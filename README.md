@@ -3,6 +3,12 @@
 [![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://profile-forme.surge.sh)](https://profile-forme.surge.sh)
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/tientainguyen)](https://ko-fi.com/tientainguyen)
 
+<!-- TAGS -->
+
+![](./assets/header_.png)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=435&lines=console.log(%22I'm+Nguyen+Tien+Tai%22);console.log(%22I+code+Javascript%22);console.log(%22and+code+Go%22);console.log(%22and+TypeScript%22))](https://git.io/typing-svg)
+
 I hold a software engineering degree from Nha Trang University. I work as a Web Developer at a software company and also teach programming to students.
 
 <img align ="right" src = "https://res.cloudinary.com/ecommerce2021/image/upload/v1663398918/profile-forme/avatar_ws0jhh.png" width="150" height="150">
@@ -14,6 +20,12 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
+<!-- go run gif -->
+<div align="center">
+  <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
+</div>
+<!-- go run gif -->
+
 <b> Technologies I've been learning and using so far (in alphabetical order): </b>
 
 ## 📑 Github Stats of me!
@@ -21,8 +33,14 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 ![Gist Card](https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile)
 ![GitHub Streak](https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats) -->
 
+<!-- activity graph heroku-app start -->
+<a href="https://wakatime.com/@raino">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="90%" >
+</a>
+
+</br>
 
 # 🚀 Programming Languages Showcase 🌟
 
@@ -105,6 +123,17 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
  <!------------------- 
 [![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)](https://profile-forme.com)
 [![AWS Cloud](https://img.shields.io/badge/-AWS%20Cloud-FF6C37?style=flat-square&logo=amazon-aws&logoColor=white)](https://profile-forme.com) -------------- -->
+
+
+<!-- tools & technologies   -->
+
+<!-- run 图片 -->
+<div align="center" >
+  <img src="./assets/man_run.png" width="250" height="250" />
+  <!--  分割  -->
+  <img width="200%" src="./assets/hr.gif" />
+</div>
+<!-- run 图片 -->
 
 ## 🔗 Connect with me
 
