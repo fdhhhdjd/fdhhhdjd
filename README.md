@@ -20,12 +20,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 - 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
-<!-- go run gif -->
-<div align="center">
-  <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
-</div>
-<!-- go run gif -->
-
 <b> Technologies I've been learning and using so far (in alphabetical order): </b>
 
 ## 📑 Github Stats of me!
@@ -52,7 +46,14 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 # 🚀 Programming Languages Showcase 🌟
 
+<!-- go run gif -->
+<div align="center">
+  <a href="https://go.dev/"><img src="./assets/go_run.gif"></a>
+</div>
+<!-- go run gif -->
+
 ![Languages](https://skillicons.dev/icons?i=js,ts,go)
+
 
 <!------------------- Step 1 -------------- -->
 ## 🌐 Frontend
