@@ -52,6 +52,8 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 </div>
 <!-- go run gif -->
 
+</br>
+
 ![Languages](https://skillicons.dev/icons?i=js,ts,go)
 
 
