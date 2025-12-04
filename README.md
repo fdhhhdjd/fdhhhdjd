@@ -1,9 +1,4 @@
 ###  <h1> Hi, I'm Nguyễn Tiến Tài 👨🏼‍🏫, Web Developer 🔥  <a href="https://profile-forme.surge.sh" target="_blank"></a> </h1>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dinhanhthi/)](https://www.linkedin.com/in/tai-nguyen-tien-787545213/)
-[![Profile](https://img.shields.io/badge/-My%20Notes-009e22?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAARCAQAAABHwVUUAAAAxklEQVQYlYWROw6BQRSFp1LRW4BaqUCswAJsQYJoJDQsAI0VSIgIpUKjIgqxAIlGoSXexPNz+ecvMDi3uvnmzD0zVymFkwI9ui/Vo4JH4SDEhE9diSkCZMkzZ0Wblq6pwBspJdcGWUgzJEqDOk3S1DTES5IyGwbi37FmL0eqNnQToc+RMQkZkCVHnI4NXYQZcZZmz/ZZOy429JGhJIHepQP5ZeKn/jr1zJMZWmkPZmi9c/ktUNCAtNP625kZ/tqKeuQtmvd5B5bhnUU8EVlfAAAAAElFTkSuQmCC&link=https://profile-forme.surge.sh)](https://profile-forme.surge.sh)
-[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-db4c4c?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/tientainguyen)](https://ko-fi.com/tientainguyen)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffdhhhdjd%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%F0%9F%94%8E+hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 <!-- TAGS -->
 
 ![](./assets/header_.png)
@@ -17,8 +12,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
 - 📚 My notes of learning at [profile-forme.com](https://www.profile-forme.com) and GitHub.
-- 💬 Ask me about NodeJs | React | Database | System.
-- 😍 My hobbies are coding, reading, and cooking.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
 <b> Technologies I've been learning and using so far (in alphabetical order): </b>
@@ -31,10 +24,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trishan9&hide=shell,html,css,c&layout=donut-vertical&theme=tokyonight)](https://github.com/trishan9/github-readme-stats) -->
 
 <!-- activity graph heroku-app start -->
-<a href="https://profile-forme.com">
-        <img src="https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&rank_icon=percentile&hide_border=true" width="48%" >
-</a>
-
 <a href="https://profile-forme.com">
         <img src="https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight&hide_border=true" width="48%" >
 </a>
@@ -148,12 +137,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 <!-- run 图片 -->
 
 ## 🔗 Connect with me
-
-<p align="left">
-    <a href="https://www.profile-forme.com" target="_blank">
-     <img align ="center" src = "https://res.cloudinary.com/ecommerce2021/image/upload/v1663398918/profile-forme/avatar_ws0jhh.png" width="100" height="100">
-    </a>
-</p>
 
 🌟 Chào cả nhà!
 
