@@ -155,25 +155,20 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
     </a>
 </p>
 
-📢 Hi everyone,
+🌟 Chào cả nhà!
 
-I am thrilled to announce the launch of my new blog project! 🚀
+Tôi là Nguyễn Tiến Tài — một Lập trình viên Fullstack với kinh nghiệm làm việc từ xa (Remote).
+Không chỉ viết code, đam mê lớn của tôi là giảng dạy và chia sẻ. Tôi đã có 3 năm đứng lớp tại các trung tâm lập trình, và giờ đây, tôi tiếp tục sứ mệnh ấy trên nền tảng TikTok với vai trò “thầy giáo dạy lập trình”! 🧑‍💻📚
 
-The main objective of this project is to share my extensive knowledge and experience in the field of programming and software development. I will be covering a wide range of topics including frontend, backend, DevOps, cutting-edge technologies, and much more.
+Tại kênh TikTok [code.web.khng.kh](https://www.tiktok.com/@code.web.khng.kh), tôi tập trung chia sẻ những nội dung thực tế, hữu ích:
 
-I am eagerly looking forward to sharing my insights with all of you and learning from your valuable feedback. Stay tuned for a series of captivating articles that will be published on my blog!
+🎬 Mẹo & kinh nghiệm xoay quanh Front-end (React, JavaScript), Back-end (Node.js, Go, Database) và quy trình xây dựng dự án thực tế.
 
-To stay updated with the latest posts, I invite you to follow my blog at [profile-forme.com](https://www.profile-forme.com).
+💡 Hướng dẫn chi tiết về cách làm việc remote hiệu quả và phát triển một ứng dụng web hoàn chỉnh.
 
-Your support is greatly appreciated as we strive to build a vibrant community of learners and knowledge enthusiasts!
+🌐 Lộ trình học tập rõ ràng cho các bạn muốn chinh phục con đường trở thành Fullstack Developer.
 
-If you have any questions or feedback, please don't hesitate to reach out to me at [nguyentientai10@gmail.com](nguyentientai10@gmail.com).
+Tôi luôn tâm niệm: Kiến thức chỉ thực sự có giá trị khi được lan tỏa một cách gần gũi và dễ áp dụng nhất. Mong rằng những chia sẻ của tôi sẽ giúp các bạn trẻ yêu thích công nghệ tiến gần hơn đến nghề nghiệp mơ ước.
 
-Please note that the project is currently private. If you are genuinely interested in expanding your knowledge, kindly send me a message, and I will be more than happy to provide you with access.
-
-Thank you for your continuous support, and I look forward to connecting with you on the blog!
-
-To learn more about me, visit [profile-forme.com](https://www.profile-forme.com).
-
-🌟 Nguyễn Tiến Tài
+Nếu bạn quan tâm đến Fullstack Development, làm việc Remote, hoặc đơn giản là muốn học lập trình một cách “không khó, không khô”, hãy ghé thăm và theo dõi kênh TikTok của tôi nhé!
 
