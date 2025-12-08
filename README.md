@@ -10,7 +10,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
-- 📚 My notes of learning at [profile-forme.com](https://www.profile-forme.com) and GitHub.
+- 📚 My notes of learning at [profile-forme.com/portfolios](https://www.profile-forme.com/portfolios) and GitHub.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
 ## 📑 Github Stats
