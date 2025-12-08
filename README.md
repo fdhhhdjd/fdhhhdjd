@@ -16,10 +16,6 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 ## 📑 Github Stats
 
 <a href="https://github.com/fdhhhdjd">
-  <img src="https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight&hide_border=true" width="48%">
-</a>
-
-<a href="https://github.com/fdhhhdjd">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%">
 </a>
 
