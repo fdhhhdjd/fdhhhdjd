@@ -10,7 +10,7 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 - 🎓 Graduated from Nha Trang University with an undergraduate degree.
 - 🔥 I am a software engineer and a programming instructor. I work as a programmer for companies' websites.
-- 📚 My notes of learning at [profile-forme.com/portfolios](https://www.profile-forme.com/portfolios) and GitHub.
+- 📚 My notes of learning at [codewebkhongkho.com/portfolios](https://codewebkhongkho.com/portfolios) and GitHub.
 - 💌 Contact me at [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com).
 
 ## 📑 Github Stats
@@ -74,18 +74,19 @@ I hold a software engineering degree from Nha Trang University. I work as a Web 
 
 Chào cả nhà!
 
-Tôi là **Nguyễn Tiến Tài** — một **Lập trình viên Fullstack** với kinh nghiệm làm việc **từ xa (Remote)**. Không chỉ viết code, đam mê lớn của tôi là **giảng dạy và chia sẻ**. Tôi đã có **3 năm đứng lớp** tại các trung tâm lập trình, và giờ đây, tôi tiếp tục sứ mệnh ấy trên nền tảng TikTok với vai trò **“thầy giáo dạy lập trình”**! 🧑‍💻📚
+Tôi là **Nguyễn Tiến Tài** — một **Lập trình viên Fullstack** với kinh nghiệm làm việc **từ xa (Remote)**. Không chỉ viết code, đam mê lớn của tôi là **giảng dạy và chia sẻ**. Tôi đã có **3 năm đứng lớp** tại các trung tâm lập trình, và giờ đây, tôi tiếp tục sứ mệnh ấy bằng cách mở lớp dạy kèm và học theo video, với vai trò **“thầy giáo dạy lập trình”**! 🧑‍💻📚
 
-Tại kênh TikTok [**@code.web.khng.kh**](https://www.tiktok.com/@code.web.khng.kh), tôi tập trung chia sẻ những nội dung **thực tế, hữu ích**:
-- 🎬 **Mẹo & kinh nghiệm** xoay quanh **Front-end (React, JavaScript)**, **Back-end (Node.js, Go, Database)** và quy trình xây dựng **dự án thực tế**.
-- 💡 **Hướng dẫn chi tiết** về cách làm việc remote hiệu quả và phát triển một ứng dụng web hoàn chỉnh.
-- 🌐 **Lộ trình học tập** rõ ràng cho các bạn muốn chinh phục con đường trở thành Fullstack Developer.
+Trên hai kênh chính của mình: 
+1. 📘 Facebook: [**Code Web Không Khó**](https://www.facebook.com/codewebkhongkho)
+2. 🎵 TikTok: [**Code Web Không Khó**](https://www.tiktok.com/@code.web.khng.kh)
+
+Tôi tập trung chia sẻ những nội dung **thực tế, hữu ích**, các bạn có thể ghé và xem nhé!
 
 Tôi luôn tâm niệm: **Kiến thức chỉ thực sự có giá trị khi được lan tỏa một cách gần gũi và dễ áp dụng nhất.** Mong rằng những chia sẻ của tôi sẽ giúp các bạn trẻ yêu thích công nghệ tiến gần hơn đến nghề nghiệp mơ ước.
 
-Nếu bạn quan tâm đến **Fullstack Development, làm việc Remote**, hoặc đơn giản là muốn học lập trình một cách **“không khó, không khô”**, hãy ghé thăm và theo dõi kênh TikTok của tôi nhé!
+Nếu bạn quan tâm đến **Fullstack Development, làm việc Remote**, hoặc đơn giản là muốn học lập trình một cách **“không khó, không khô”**, hãy ghé thăm và theo dõi 2 kên của tôi nhé!
 
 📬 **Liên hệ công việc & hợp tác:** [nguyentientai10@gmail.com](mailto:nguyentientai10@gmail.com)  
-🌐 **Portfolio & thông tin cá nhân:** [profile-forme.com](https://www.profile-forme.com)
+🌐 **Portfolio & thông tin cá nhân:** [codewebkhongkho.com/portfolios](https://codewebkhongkho.com/portfolios)
 
-*Cảm ơn sự quan tâm và ủng hộ của mọi người! Hẹn gặp trên TikTok và qua những dòng code đầy cảm hứng!* 💻✨
+*Cảm ơn sự quan tâm và ủng hộ của mọi người! Hẹn gặp trên TikTok,Facebook và qua những dòng code đầy cảm hứng!* 💻✨
