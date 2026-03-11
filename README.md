@@ -1,4 +1,4 @@
-# Hi, I'm Nguyễn Tiến Tài 👨🏼‍🏫, Web Developer 🔥
+# Hi, I'm Nguyễn Tiến Tài 👨🏼‍🏫, Software Engineer and Teacher 🔥
 
 ![](./assets/header_.png)
 
