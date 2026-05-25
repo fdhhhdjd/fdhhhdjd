@@ -9,7 +9,7 @@
 ### 🧑‍💻 Software Engineer · 🧑‍🏫 Mentor Lập Trình
 
 [![Website](https://img.shields.io/badge/🌐_Website-codewebkhongkho.com-6366F1?style=for-the-badge)](https://codewebkhongkho.com)
-[![Portfolio](https://img.shields.io/badge/📂_Portfolio-View-8B5CF6?style=for-the-badge)](https://codewebkhongkho.com/portfolios)
+[![Portfolio](https://img.shields.io/badge/📂_Portfolio-View-8B5CF6?style=for-the-badge)](https://codewebkhongkho.com)
 [![Contact](https://img.shields.io/badge/📬_Contact-Get_in_touch-EC4899?style=for-the-badge)](https://codewebkhongkho.com/contact)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;JavaScript+%7C+TypeScript+%7C+Go;Mentor+1-1+%26+Online+Teaching;Building+at+codewebkhongkho.com)](https://codewebkhongkho.com)
@@ -25,82 +25,63 @@
 - 🔥 Software Engineer · 6+ năm kinh nghiệm Full-Stack
 - 🧑‍🏫 Mentor lập trình 1-1 và team theo lộ trình cá nhân hoá
 - 📚 Toàn bộ dự án, bài viết, lộ trình học tại [**codewebkhongkho.com**](https://codewebkhongkho.com)
+- 💎 Tham khảo **bảng giá khoá học** tại [**lms-codewebkhongkho.com/pricing**](https://lms-codewebkhongkho.com/pricing?utm_source=web&utm_medium=banner&utm_campaign=github)
 - 💌 Liên hệ hợp tác qua [**codewebkhongkho.com/contact**](https://codewebkhongkho.com/contact)
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Chuyên môn
+
+> **6+ năm** thiết kế và vận hành sản phẩm thực tế từ MVP → production scale.
+> Tự tin **own end-to-end** từ database design, backend architecture, frontend UX cho tới deploy và monitoring.
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+**🏗️ Architecture & System Design**
+- Thiết kế hệ thống phục vụ hàng nghìn user đồng thời
+- Microservices, event-driven, message queue
+- Caching strategy, DB indexing, query optimization
+
+**⚡ Performance & Scale**
+- Tối ưu p95 latency từ giây xuống milli-giây
+- Profile thật, đo thật, fix đúng bottleneck — không guess
+- Horizontal scaling, load balancing, CDN
+
+  </td>
+    <td valign="top" width="50%">
+
+**🤖 AI Integration**
+- Tích hợp Claude / GPT / Gemini vào sản phẩm thực tế
+- RAG pipeline, function calling, agent workflow
+- Prompt engineering production-grade
+
+**🧑‍🏫 Mentorship & Team**
+- Dẫn dắt team junior → mid-level
+- Code review, kiến trúc, dev workflow
+- Build culture coding chuẩn, sạch, có test
+
+  </td>
+  </tr>
+</table>
 
 <div align="center">
 
-### Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,go)
-
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,next,vue,nuxt,redux,tailwind,scss,mui,bootstrap,styledcomponents,html,css)
-
-### Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,fastapi,rabbitmq)
-
-[![Knex](https://img.shields.io/badge/-Knex-DB4D6D?style=flat-square&logo=knex&logoColor=white)](https://codewebkhongkho.com)
-[![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://codewebkhongkho.com)
-[![Hasura](https://img.shields.io/badge/-Hasura-FF6924?style=flat-square&logo=hasura&logoColor=white)](https://codewebkhongkho.com)
-
-### Database
-![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,firebase,redis)
-
-### DevOps & Cloud
-![DevOps](https://skillicons.dev/icons?i=docker,vercel,netlify,nginx,heroku,aws,googlecloud,cloudflare)
-
-### Tools
-![Tools](https://skillicons.dev/icons?i=figma,postman,vite,bash,git,markdown,linux,vscode,github,gitlab)
-
-### 🤖 AI & Productivity
-
-[![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=for-the-badge&logo=anthropic&logoColor=white)](https://www.anthropic.com/claude)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-1A1A1A?style=for-the-badge&logo=anthropic&logoColor=D97757)](https://www.anthropic.com/claude-code)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)](https://chat.openai.com)
-[![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)](https://github.com/features/copilot)
+> *Stack chính: **Go · Node.js · TypeScript · React · Next.js · PostgreSQL · Redis · Docker · AWS**.
+> Dùng đúng tool cho đúng vấn đề — không fan-boy framework.*
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<!-- 3D ISOMETRIC CONTRIBUTION GRAPH -->
+<!-- STREAK STATS (Heroku - reliable) -->
 <div align="center">
 
 <a href="https://codewebkhongkho.com">
-  <img src="https://raw.githubusercontent.com/fdhhhdjd/fdhhhdjd/main/profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D Contribution Graph" />
-</a>
-
-</div>
-
-<br />
-
-<!-- ANIMATED STATS + STREAK SIDE BY SIDE -->
-<div align="center">
-
-<a href="https://codewebkhongkho.com">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fdhhhdjd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=A1A1AA&count_private=true" alt="GitHub Stats" />
-</a>
-<a href="https://codewebkhongkho.com">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=fdhhhdjd&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" />
-</a>
-
-</div>
-
-<br />
-
-<!-- TOP LANGUAGES + TROPHY -->
-<div align="center">
-
-<a href="https://codewebkhongkho.com">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fdhhhdjd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A1A1AA&langs_count=8" alt="Top Languages" />
-</a>
-<a href="https://codewebkhongkho.com">
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=fdhhhdjd&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=8&margin-h=8" alt="Trophy" />
+  <img src="https://streak-stats.demolab.com?user=fdhhhdjd&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=EC4899&currStreakLabel=6366F1" alt="GitHub Streak" />
 </a>
 
 </div>
@@ -111,7 +92,7 @@
 <div align="center">
 
 <a href="https://codewebkhongkho.com">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&area=true&custom_title=Đóng%20góp%20open%20source&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" width="95%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fdhhhdjd&theme=react-dark&hide_border=true&area=true&custom_title=%C4%90%C3%B3ng%20g%C3%B3p%20open%20source&bg_color=0D1117&color=6366F1&line=8B5CF6&point=EC4899" width="95%" alt="Activity Graph" />
 </a>
 
 </div>
@@ -139,7 +120,36 @@ Phản hồi trong 24h, thực hành trên dự án thực tế.
 Kho bài viết, video, lộ trình **Backend / DevOps / Fullstack**.
 Cập nhật thường xuyên, miễn phí truy cập.
 
-[**→ Khám phá**](https://codewebkhongkho.com/portfolios)
+[**→ Khám phá**](https://codewebkhongkho.com)
+
+  </td>
+  </tr>
+</table>
+
+---
+
+## 💼 Nhận dự án
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🚀 Freelance & Outsource
+
+Có **đội dev riêng** nhận dự án **AI · Web · App**.
+Từ MVP startup tới hệ thống production thật.
+
+[**→ Đặt lịch tư vấn**](https://codewebkhongkho.com/contact)
+
+  </td>
+    <td width="50%" valign="top">
+
+### 🤝 Hợp tác dài hạn
+
+Nhận role **technical advisor / part-time CTO**
+cho founder, SME, agency cần đội tech in-house.
+
+[**→ Liên hệ thảo luận**](https://codewebkhongkho.com/contact)
 
   </td>
   </tr>
@@ -154,7 +164,7 @@ Cập nhật thường xuyên, miễn phí truy cập.
 ### 🔗 Website chính
 
 [![Website](https://img.shields.io/badge/Website-codewebkhongkho.com-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codewebkhongkho.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://codewebkhongkho.com/portfolios)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white)](https://codewebkhongkho.com)
 [![Blog](https://img.shields.io/badge/Blog-Đọc_bài_viết-10B981?style=for-the-badge&logo=hashnode&logoColor=white)](https://codewebkhongkho.com)
 [![Contact](https://img.shields.io/badge/Liên_hệ-Hợp_tác-EC4899?style=for-the-badge&logo=maildotru&logoColor=white)](https://codewebkhongkho.com/contact)
 
